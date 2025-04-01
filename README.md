@@ -1,2 +1,2 @@
 # Hanahs-Projects
-A few short projects I've made using various languages and frameworks.
+A few small projects I've made using various languages and frameworks.
